@@ -1,0 +1,311 @@
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m [32m[1mStarting HAG application main function...[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 runApplication() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 createContainer() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.initialize() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerConfiguration() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerConfiguration() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerCoreServices() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerEventSystem() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerEventSystem() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerCoreServices() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerHomeAssistantServices() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.registerHomeAssistantServices() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerHVACServices() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerHVACServices() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerModules() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 HVACStateMachine.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m [31m[1m📍 HeatingStrategy.constructor() ENTRY[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m [31m[1m📍 HeatingStrategy.constructor() EXIT[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1m📍 CoolingStrategy.constructor() ENTRY[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1m📍 CoolingStrategy.constructor() EXIT[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 HVACStateMachine.constructor() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.registerModule() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.module-registry][39m [32m[1m✅ Module registered: HVAC Control System (1.0.0)[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.registerModule() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.core][39m [32m[1m✅ Registered all domain modules[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerModules() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerExperimentalFeatures() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.registerExperimentalFeatures() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 ApplicationContainer.initialize() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 createContainer() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.get() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.get() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 Retrieved module registry from container
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.getModule() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.getModule() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 Retrieved HVAC module from registry
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 Retrieved HVAC controller from module
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m🚀 Starting Home Assistant connection process[22m[39m [2m[32m{wsUrl="ws://192.168.0.204:8123/api/websocket" restUrl="http://192.168.0.204:8123/api" maxRetries=5 retryDelayMs=1000 currentState="disconnected"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 🔄 Attempting Home Assistant connection [2m[32m{wsUrl="ws://192.168.0.204:8123/api/websocket" attempt=1 maxRetries=5 retryDelayMs=1000}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Creating WebSocket connection... [2m[32m{url="ws://192.168.0.204:8123/api/websocket" currentTime="2025-07-08T21:47:11.860Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket object created [2m[32m{readyState=0 readyStateString="CONNECTING" url="ws://192.168.0.204:8123/api/websocket"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m WebSocket connection established
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket opened successfully [2m[32m{readyState=1 readyStateString="OPEN" protocol="" extensions=""}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1mStarting Home Assistant authentication[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=48 timestamp="2025-07-08T21:47:11.868Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Received auth_required message
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending authentication token
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Attempting to send WebSocket message [2m[32m{messageType="auth" messageId=undefined hasWebSocket=true readyState=1 readyStateString="OPEN" timestamp="2025-07-08T21:47:11.868Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending WebSocket message [2m[32m{messageLength=216 messagePreview="{\"type\":\"auth\",\"access_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIwMmE2YWYwMGMzZGU0OTVk"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message sent successfully [2m[32m{messageType="auth" messageId=undefined}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=42 timestamp="2025-07-08T21:47:11.871Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m Authentication successful
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 📡 Subscribing to Home Assistant events [2m[32m{eventType="state_changed"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Sending event subscription message [2m[32m{messageId=1 eventType="state_changed" messageType="subscribe_events"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Attempting to send WebSocket message [2m[32m{messageType="subscribe_events" messageId=1 hasWebSocket=true readyState=1 readyStateString="OPEN" timestamp="2025-07-08T21:47:11.873Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending WebSocket message [2m[32m{messageLength=63 messagePreview="{\"id\":1,\"type\":\"subscribe_events\",\"event_type\":\"state_changed\"}"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message sent successfully [2m[32m{messageType="subscribe_events" messageId=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Successfully subscribed to events[22m[39m [2m[32m{eventType="state_changed" totalSubscriptions=1 messageId=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Connected to Home Assistant successfully[22m[39m [2m[32m{totalAttempts=1 connectionStats={"totalConnections":1,"totalReconnections":0,"totalMessages":0,"totalErrors":0,"lastConnected":"2025-07-08T21:47:11.873Z"} subscriptions=["state_changed"] eventHandlers=[]}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 HVACStateMachine.start() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🚀 Starting HVAC state machine[22m[39m [2m[32m{machineId="hvac" initialState="idle" alreadyRunning=false}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m 🔄 [HVAC] State transition triggered by: xstate.init [2m[32m{toState="xstate.init" event={"type":"xstate.init"} indoorTemp=undefined outdoorTemp=undefined systemMode="auto" currentHour=23 isWeekday=true timestamp="2025-07-08T21:47:11.875Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🔄 State machine transition[22m[39m [2m[32m{toState="idle" context={"currentHour":23,"isWeekday":true,"systemMode":"auto"} status="active" timestamp="2025-07-08T21:47:11.876Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [32m[1m✅ HVAC state machine started[22m[39m [2m[32m{initialState="idle" initialContext={"currentHour":23,"isWeekday":true,"systemMode":"auto"} machineStatus="active" timestamp="2025-07-08T21:47:11.876Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📝 Adding event handler [2m[32m{eventType="state_changed" existingHandlers=0}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Event handler registered[22m[39m [2m[32m{eventType="state_changed" totalHandlers=1 totalEventTypes=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.subscribeToEvent() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📡 Subscribed to hvac.mode_change_request [2m[32m{listeners=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.subscribeToEvent() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.subscribeToEvent() ENTRY
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📡 Subscribed to hvac.evaluate_conditions [2m[32m{listeners=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.event-bus][39m 📍 EventBus.subscribeToEvent() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [35m[1m🔍 Getting entity state[22m[39m [2m[32m{entityId="sensor.1st_floor_hall_multisensor_temperature"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🌐 Making REST API call [2m[32m{url="http://192.168.0.204:8123/api/states/sensor.1st_floor_hall_multisensor_temperature" method="GET" entityId="sensor.1st_floor_hall_multisensor_temperature"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=53 timestamp="2025-07-08T21:47:11.882Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="result" messageId=1 totalMessages=1 timestamp="2025-07-08T21:47:11.882Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Command result: success[22m[39m [2m[32m{messageId=1 result=null}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🌐 REST API response received [2m[32m{entityId="sensor.1st_floor_hall_multisensor_temperature" status=200 statusText="OK" ok=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Entity state retrieved[22m[39m [2m[32m{entityId="sensor.1st_floor_hall_multisensor_temperature" state="23.6" friendlyName="1st Floor Hall Multisensor  Temperature" lastChanged="2025-07-08T21:32:28.364Z" lastUpdated="2025-07-08T21:32:28.364Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [35m[1m🔍 Getting entity state[22m[39m [2m[32m{entityId="sensor.openweathermap_temperature"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🌐 Making REST API call [2m[32m{url="http://192.168.0.204:8123/api/states/sensor.openweathermap_temperature" method="GET" entityId="sensor.openweathermap_temperature"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🌐 REST API response received [2m[32m{entityId="sensor.openweathermap_temperature" status=200 statusText="OK" ok=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Entity state retrieved[22m[39m [2m[32m{entityId="sensor.openweathermap_temperature" state="14.39" friendlyName="OpenWeatherMap Temperature" lastChanged="2025-07-08T21:36:50.931Z" lastUpdated="2025-07-08T21:36:50.931Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m [35m[1m📤 Sending event to state machine[22m[39m [2m[32m{event={"type":"UPDATE_TEMPERATURES","indoor":23.6,"outdoor":14.39} eventType="UPDATE_TEMPERATURES" currentState="idle" context={"currentHour":23,"isWeekday":true,"systemMode":"auto"} timestamp="2025-07-08T21:47:11.888Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [33m[1m🎯 Triggering condition evaluation[22m[39m [2m[32m{currentState="idle" hasTemperatureData=true indoorTemp=23.6 outdoorTemp=14.39 systemMode="auto" currentHour=23 isWeekday=true timestamp="2025-07-08T21:47:11.889Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m Sending AUTO_EVALUATE event
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m 🔄 [HVAC] State transition triggered by: AUTO_EVALUATE [2m[32m{toState="AUTO_EVALUATE" event={"type":"AUTO_EVALUATE"} indoorTemp=23.6 outdoorTemp=14.39 systemMode="auto" currentHour=23 isWeekday=true timestamp="2025-07-08T21:47:11.889Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m Checking shouldAutoHeat guard
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m [31m[1m📍 HeatingStrategy.shouldHeat() ENTRY[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m [31m[1m🔥 Evaluating heating conditions[22m[39m [2m[32m{currentTemp=23.6 weatherTemp=14.39 hour=23 isWeekday=true thresholds={"indoorMin":19.7,"indoorMax":20.2,"outdoorMin":-5,"outdoorMax":15} targetTemperature=21}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.heating-strategy][39m [31m[1m❌ Heating rejected: indoor temp at/above max[22m[39m [2m[32m{currentTemp=23.6 indoorMax=20.2 reason="indoor_temp_too_high"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m Checking shouldAutoCool guard
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🔍 shouldAutoCool context debug[22m[39m [2m[32m{systemMode="auto" indoorTemp=23.6 outdoorTemp=14.39 currentHour=23 isWeekday=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1m📍 CoolingStrategy.shouldCool() ENTRY[22m[39m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1m❄️ Evaluating cooling conditions[22m[39m [2m[32m{currentTemp=23.6 weatherTemp=14.39 hour=23 isWeekday=true thresholds={"indoorMin":23.5,"indoorMax":24,"outdoorMin":10,"outdoorMax":45} targetTemperature=24}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1mEVALUATING cooling[22m[39m [2m[32m{currentTemp=23.6 indoorMin=23.5 shouldCool=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.cooling-strategy][39m [36m[1m✅ Cooling approved[22m[39m [2m[32m{currentTemp=23.6 indoorMin=23.5 shouldCool=true tempDifference=0.10000000000000142 evaluationTimeMs=0 reason="temp_above_minimum"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.cooling-strategy][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🔍 shouldAutoCool result[22m[39m [2m[32m{result=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m 🔄 [HVAC] State transition triggered by: AUTO_EVALUATE [2m[32m{toState="AUTO_EVALUATE" event={"type":"AUTO_EVALUATE"} indoorTemp=23.6 outdoorTemp=14.39 systemMode="auto" currentHour=23 isWeekday=true timestamp="2025-07-08T21:47:11.890Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [36m[1m❄️ [HVAC] Starting cooling mode[22m[39m [2m[32m{targetTemp=24 indoorTemp=23.6 outdoorTemp=14.39 presetMode="windFree" thresholds={"indoorMin":23.5,"indoorMax":24,"outdoorMin":10,"outdoorMax":45} timestamp="2025-07-08T21:47:11.890Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [36m[1m❄️ Executing cooling mode on entities[22m[39m [2m[32m{targetTemp=24 presetMode="windFree" enabledEntities=1 entities=["climate.living_room_ac"]}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🔄 State machine transition[22m[39m [2m[32m{toState="cooling" context={"indoorTemp":23.6,"outdoorTemp":14.39,"currentHour":23,"isWeekday":true,"systemMode":"auto"} status="active" timestamp="2025-07-08T21:47:11.891Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m ⚙️ Event triggered state transition [2m[32m{event={"type":"UPDATE_TEMPERATURES","indoor":23.6,"outdoor":14.39} fromState="idle" toState="cooling" contextChanged=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 🔧 Calling Home Assistant service [2m[32m{domain="climate" service="set_hvac_mode" entityId="climate.living_room_ac" serviceData={"entity_id":"climate.living_room_ac","hvac_mode":"cool"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Sending service call message [2m[32m{messageId=2 domain="climate" service="set_hvac_mode" target=undefined serviceData={"entity_id":"climate.living_room_ac","hvac_mode":"cool"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Attempting to send WebSocket message [2m[32m{messageType="call_service" messageId=2 hasWebSocket=true readyState=1 readyStateString="OPEN" timestamp="2025-07-08T21:47:11.892Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending WebSocket message [2m[32m{messageLength=148 messagePreview="{\"id\":2,\"type\":\"call_service\",\"domain\":\"climate\",\"service\":\"set_hvac_mode\",\"service_data\":{\"entity_i"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message sent successfully [2m[32m{messageType="call_service" messageId=2}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Service called successfully[22m[39m [2m[32m{domain="climate" service="set_hvac_mode" messageId=2}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 🔧 Calling Home Assistant service [2m[32m{domain="climate" service="set_temperature" entityId="climate.living_room_ac" serviceData={"entity_id":"climate.living_room_ac","temperature":24}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Sending service call message [2m[32m{messageId=3 domain="climate" service="set_temperature" target=undefined serviceData={"entity_id":"climate.living_room_ac","temperature":24}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Attempting to send WebSocket message [2m[32m{messageType="call_service" messageId=3 hasWebSocket=true readyState=1 readyStateString="OPEN" timestamp="2025-07-08T21:47:11.892Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending WebSocket message [2m[32m{messageLength=148 messagePreview="{\"id\":3,\"type\":\"call_service\",\"domain\":\"climate\",\"service\":\"set_temperature\",\"service_data\":{\"entity"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message sent successfully [2m[32m{messageType="call_service" messageId=3}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 HVAC controller started successfully
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG][39m 🏠 HAG HVAC automation is running...
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG][39m 📊 Press Ctrl+C to stop gracefully
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Service called successfully[22m[39m [2m[32m{domain="climate" service="set_temperature" messageId=3}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 🔧 Calling Home Assistant service [2m[32m{domain="climate" service="set_preset_mode" entityId="climate.living_room_ac" serviceData={"entity_id":"climate.living_room_ac","preset_mode":"windFree"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Sending service call message [2m[32m{messageId=4 domain="climate" service="set_preset_mode" target=undefined serviceData={"entity_id":"climate.living_room_ac","preset_mode":"windFree"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Attempting to send WebSocket message [2m[32m{messageType="call_service" messageId=4 hasWebSocket=true readyState=1 readyStateString="OPEN" timestamp="2025-07-08T21:47:11.892Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m Sending WebSocket message [2m[32m{messageLength=156 messagePreview="{\"id\":4,\"type\":\"call_service\",\"domain\":\"climate\",\"service\":\"set_preset_mode\",\"service_data\":{\"entity"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message sent successfully [2m[32m{messageType="call_service" messageId=4}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Service called successfully[22m[39m [2m[32m{domain="climate" service="set_preset_mode" messageId=4}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m [33m[1m🎯 HVAC entity control completed[22m[39m [2m[32m{entityId="climate.living_room_ac" mode="cool" temperature=24 presetMode="windFree"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:11][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [36m[1m✅ Cooling entity controlled[22m[39m [2m[32m{entityId="climate.living_room_ac" temperature=24 presetMode="windFree"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1183 timestamp="2025-07-08T21:47:11.957Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=2 timestamp="2025-07-08T21:47:11.957Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="sensor.shellyem_34945473e42f_channel_1_power" eventTime="2025-07-08T21:47:11.930Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="sensor.shellyem_34945473e42f_channel_1_power" oldState="-112.45" newState="-112.07" stateChanged=true timeFired="2025-07-08T21:47:11.930Z" attributes={"state_class":"measurement","unit_of_measurement":"W","device_class":"power","friendly_name":"House Shelly EM AC power"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1252 timestamp="2025-07-08T21:47:11.958Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=3 timestamp="2025-07-08T21:47:11.958Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="sensor.shellyem_34945473e42f_channel_1_energy_returned" eventTime="2025-07-08T21:47:11.930Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="sensor.shellyem_34945473e42f_channel_1_energy_returned" oldState="1317.4462" newState="1317.448" stateChanged=true timeFired="2025-07-08T21:47:11.930Z" attributes={"state_class":"total_increasing","unit_of_measurement":"kWh","device_class":"energy","friendly_name":"House Shelly EM AC energy returned"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1195 timestamp="2025-07-08T21:47:11.958Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=4 timestamp="2025-07-08T21:47:11.958Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="sensor.shellyem_34945473e42f_channel_1_voltage" eventTime="2025-07-08T21:47:11.930Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="sensor.shellyem_34945473e42f_channel_1_voltage" oldState="245.61" newState="245.51" stateChanged=true timeFired="2025-07-08T21:47:11.930Z" attributes={"state_class":"measurement","unit_of_measurement":"V","device_class":"voltage","friendly_name":"House Shelly EM AC voltage"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1209 timestamp="2025-07-08T21:47:11.959Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=5 timestamp="2025-07-08T21:47:11.959Z"}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="sensor.shellyem_34945473e42f_channel_2_voltage" eventTime="2025-07-08T21:47:11.930Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="sensor.shellyem_34945473e42f_channel_2_voltage" oldState="245.61" newState="245.51" stateChanged=true timeFired="2025-07-08T21:47:11.930Z" attributes={"state_class":"measurement","unit_of_measurement":"V","device_class":"voltage","friendly_name":"House Shelly EM channel 2 voltage"}}[39m[22m
+[2m[36m[21:47:11][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=158 timestamp="2025-07-08T21:47:13.475Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="result" messageId=2 totalMessages=6 timestamp="2025-07-08T21:47:13.475Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Command result: success[22m[39m [2m[32m{messageId=2 result={"context":{"id":"01JZP03MKZ4FWEE0S6JJN183H7","parent_id":null,"user_id":"17fa4a71554745cc9b371ddce17dd504"}}}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=158 timestamp="2025-07-08T21:47:13.582Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="result" messageId=3 totalMessages=7 timestamp="2025-07-08T21:47:13.582Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Command result: success[22m[39m [2m[32m{messageId=3 result={"context":{"id":"01JZP03MNAE73038BQ1RVHWGPJ","parent_id":null,"user_id":"17fa4a71554745cc9b371ddce17dd504"}}}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=158 timestamp="2025-07-08T21:47:13.582Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="result" messageId=4 totalMessages=8 timestamp="2025-07-08T21:47:13.582Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Command result: success[22m[39m [2m[32m{messageId=4 result={"context":{"id":"01JZP03MNBQSD5Y053VG5Q49CN","parent_id":null,"user_id":"17fa4a71554745cc9b371ddce17dd504"}}}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1918 timestamp="2025-07-08T21:47:13.888Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=9 timestamp="2025-07-08T21:47:13.888Z"}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="climate.living_room_ac" eventTime="2025-07-08T21:47:13.861Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="climate.living_room_ac" oldState="off" newState="cool" stateChanged=true timeFired="2025-07-08T21:47:13.861Z" attributes={"hvac_modes":["off","cool","dry","fan_only","auto","heat"],"min_temp":7,"max_temp":35,"fan_modes":["auto","low","medium","high","turbo"],"preset_modes":["windFree"],"swing_modes":["off","both","vertical","horizontal"],"current_temperature":22,"temperature":24,"fan_mode":"auto","preset_mode":null,"swing_mode":"off","drlc_status_duration":0,"drlc_status_start":"1970-01-01T00:00:00Z","drlc_status_override":false,"drlc_status_level":-1,"friendly_name":"Living Room AC","supported_features":441}}[39m[22m
+[2m[36m[21:47:13][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:14][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m WebSocket message received [2m[32m{dataType="string" dataLength=1955 timestamp="2025-07-08T21:47:14.703Z"}[39m[22m
+[2m[36m[21:47:14][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Processing WebSocket message [2m[32m{messageType="event" messageId=1 totalMessages=10 timestamp="2025-07-08T21:47:14.704Z"}[39m[22m
+[2m[36m[21:47:14][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📨 Received Home Assistant event [2m[32m{eventType="state_changed" entityId="climate.living_room_ac" eventTime="2025-07-08T21:47:14.643Z" origin="LOCAL" hasData=true}[39m[22m
+[2m[36m[21:47:14][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔄 Entity state changed [2m[32m{entityId="climate.living_room_ac" oldState="cool" newState="cool" stateChanged=false timeFired="2025-07-08T21:47:14.643Z" attributes={"hvac_modes":["off","cool","dry","fan_only","auto","heat"],"min_temp":7,"max_temp":35,"fan_modes":["auto","low","medium","high","turbo"],"preset_modes":["windFree"],"swing_modes":["off","both","vertical","horizontal"],"current_temperature":22,"temperature":24,"fan_mode":"auto","preset_mode":"windFree","swing_mode":"off","drlc_status_duration":0,"drlc_status_start":"1970-01-01T00:00:00Z","drlc_status_override":false,"drlc_status_level":-1,"friendly_name":"Living Room AC","supported_features":441}}[39m[22m
+[2m[36m[21:47:14][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📤 Dispatching event to handlers [2m[32m{eventType="state_changed" handlerCount=1}[39m[22m
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG][39m [31m[1m🛑 Received SIGTERM, shutting down gracefully...[22m[39m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 cleanup() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.disposeAll() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🛑 Stopping HVAC state machine[22m[39m [2m[32m{currentState="cooling" isRunning=true}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m [35m[1m📋 Final state machine status[22m[39m [2m[32m{finalState="cooling" finalContext={"indoorTemp":23.6,"outdoorTemp":14.39,"currentHour":23,"isWeekday":true,"systemMode":"auto"} machineStatus="active"}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [32m[1m✅ HVAC state machine stopped[22m[39m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m 🔌 Disconnecting from Home Assistant [2m[32m{currentState="connected" stats={"totalConnections":1,"totalReconnections":0,"totalMessages":10,"totalErrors":0,"lastConnected":"2025-07-08T21:47:11.873Z"} subscriptions=["state_changed"] eventHandlers=["state_changed"]}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 🔌 Closing WebSocket connection [2m[32m{readyState=1 readyStateString="OPEN"}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ WebSocket closed successfully[22m[39m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.home-assistant.client][39m [32m[1m✅ Disconnected from Home Assistant[22m[39m [2m[32m{handlersCleared=1 subscriptionsCleared=1 finalState="disconnected"}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.home-assistant.client][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.hvac.state-machine][39m [35m[1m🛑 Stopping HVAC state machine[22m[39m [2m[32m{currentState="not_running" isRunning=false}[39m[22m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.hvac.state-machine][39m [35m[1m🔄 State machine was not running[22m[39m
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.module-registry][39m 🗑️ All modules disposed.
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.disposeAll() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 LoggerService.constructor() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 disposeContainer() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.dispose() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.disposeAll() ENTRY
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() ENTRY
+[2m[36m[21:47:21][39m[22m [34mINFO   [39m [35m[HAG.module-registry][39m 🗑️ All modules disposed.
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 LoggerService.info() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.module-registry][39m 📍 ModuleRegistry.disposeAll() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.core][39m 📍 ApplicationContainer.dispose() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG.container][39m 📍 disposeContainer() EXIT
+[2m[36m[21:47:21][39m[22m [36mDEBUG  [39m [35m[HAG][39m 📍 cleanup() EXIT

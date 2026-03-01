@@ -19,12 +19,16 @@
     "@std/http": "jsr:@std/http@^1.0.19",
     "@std/collections": "jsr:@std/collections@^1.1.2",
     "@std/yaml": "jsr:@std/yaml@^1.0.8",
-    "xstate": "npm:xstate@^5.20.0",
-    "zod": "npm:zod@^3.25.74"
+    "xstate": "npm:xstate@^5.20.1",
+    "zod": "npm:zod@^3.25.76"
   },
   "tasks": {
     "dev": "deno run -A src/main.ts --config config/hvac_config_dev.yaml --log-level debug",
     "dev:watch": "deno run --watch -A src/main.ts --config config/hvac_config_dev.yaml --log-level debug",
+    "prod": "deno run -A src/main.ts --config config/hvac_config_prod.yaml --log-level info",
+    "prod:build": "deno compile -A -o target/hag-prod src/main.ts && mkdir -p target && cp config/hvac_config_prod.yaml target/hvac_config_prod.yaml",
+    "prod:start": "deno run -A --no-check src/main.ts --config config/hvac_config_prod.yaml --log-level info",
+    "prod:systemd": "deno run -A --no-check src/main.ts --config config/hvac_config_prod.yaml --log-level info 2>&1 | logger -t hag-hvac",
     "test": "deno test -A tests/ -- --config config/hvac_config_test.yaml",
     "test:unit": "deno test -A tests/unit/ -- --config config/hvac_config_test.yaml",
     "test:integration": "deno test -A tests/integration/ -- --config config/hvac_config_test.yaml",
